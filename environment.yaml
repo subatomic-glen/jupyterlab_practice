@@ -1,0 +1,5 @@
+name: jupyterpractice-env
+channels:
+  - conda-forge
+  - defaults
+prefix: C:\Users\mefde\miniconda3\envs\jupyterpractice-env
